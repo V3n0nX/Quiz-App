@@ -15,7 +15,7 @@
   </p>
 </div>
 
-![QuizApp preview](./src/quiz-app_prev.png)
+![QuizApp preview](./src/assets/quiz-app_prev.png)
 
 # Features
 
@@ -25,15 +25,14 @@
 - Responsive design
 - Reset option to restart the quiz
 
-![QuizApp preview](./src/quiz-app_prev1.png)
-![QuizApp preview](./src/quiz-app_prev2.png)
+![QuizApp preview](./src/assets/quiz-app_prev1.png) 
 
 ## Technologies Used
 
 - **React:** For building the UI components.
 - **CSS:** For styling the application.
 
----
+![QuizApp preview](./src/assets/quiz-app_prev2.png)
 
 ### Getting Started
 
