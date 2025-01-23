@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h1 align="center">Metaversus</h1>
+  <h1 align="center">Quiz App</h1>
   <p>
     This is a simple Quiz App built with React.</br>The application allows users to answer multiple-choice questions, see their score, and reset the quiz.
   </p>
