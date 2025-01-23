@@ -1,8 +1,57 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<div id="top"></div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+
+
+<div align="center">
+  <h1 align="center">Metaversus</h1>
+  <p>
+    This is a simple Quiz App built with React.</br>The application allows users to answer multiple-choice questions, see their score, and reset the quiz.
+  </p>
+</div>
+
+![QuizApp preview](./src/quiz-app_prev.png)
+
+# Features
+
+- Interactive multiple-choice quiz
+- Tracks and displays the user’s score
+- Highlights correct and incorrect answers
+- Responsive design
+- Reset option to restart the quiz
+
+![QuizApp preview](./src/quiz-app_prev1.png)
+![QuizApp preview](./src/quiz-app_prev2.png)
+
+## Technologies Used
+
+- **React:** For building the UI components.
+- **CSS:** For styling the application.
+
+---
+
+### Getting Started
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/V3n0nX/quiz-app.git
+    cd your-repo
+    ```
+
+2. **Install the required dependencies**:
+    ```bash
+    npm install
+    ```
+
+4. **Run the development server**:
+    ```bash
+    npm run dev
+    ```
+
+5. Open your browser and visit `[http://localhost:5173/]` to see the page in action!
+
